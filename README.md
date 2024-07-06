@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zunib
 - 👀 I’m interested in ... languages
 - 🌱 I’m currently learning ... Python 
-- 💞️ I’m looking to collaborate on ..create app to teach
+- 💞️ I’m looking to collaborate on ..creating apps to teach
 - 📫 How to reach me ...telegram vososelsol
 - 😄 Pronouns: ...xoonee
 - ⚡ Fun fact: ...I just realized I learn fast 😂 
